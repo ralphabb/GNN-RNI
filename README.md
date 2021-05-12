@@ -61,5 +61,5 @@ If you use this code, or its accompanying [paper](https://arxiv.org/pdf/2010.011
 ```
 
 ## Acknowledgments
-We would like to sincerely thank Christopher Morris for his support in setting up k-gnn, and in extending the codebase 
+We would like to thank Christopher Morris for his support in setting up k-gnn, and in extending the codebase 
 to support the full 3-GNN.
